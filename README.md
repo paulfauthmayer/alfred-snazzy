@@ -8,7 +8,7 @@ This is a theme for Alfred based on the Snazzy Theme by [sindresorhus](https://g
 
 Simply double click the _Alfred Snazzy.alfredappearance_ file. Done!
 
-## sindresorhus' other Snazzy Themes:
+## Other Snazzy Themes:
 
 - [iterm2-snazzy](https://github.com/sindresorhus/iterm2-snazzy) - iTerm2 version
 - [terminal-snazzy](https://github.com/sindresorhus/terminal-snazzy) - Terminal version
